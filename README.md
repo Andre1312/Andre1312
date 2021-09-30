@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I´m André, Electronics Engineer with Software Programming skills. Always looking for challenges that can improve my abilities. Love to code in JAVA and Python. Have some experience coding for WEB (HTML,CSS,Javascript) and C/C++ for microcontrollers and Arduino. I use to work with industrial automation maintenance and IT infrastructure support at a logistcs plant of the Brazil Postal Offices.
 
 
-> _Olá sou André, Engenheiro Eletrônico de formação pela POLI/UPE, com pós-graduação em Programação WEB pela UNIT/PE,gradunado em Licenciatura Plena em Computação pela UFRPE e desde 2019 buscando conhecimentos em desenvolvimento de softwares. Gosto de programar em JAVA e descobri o Python recentemente. Procuro projetos interessantes em que eu possa contribuir com meus conhecimentos e experiência._
+> _Olá sou André, Engenheiro Eletrônico de formação pela POLI/UPE, com pós-graduação em Programação WEB pela UNIT/PE,graduando em Licenciatura Plena em Computação pela UFRPE e desde 2019 buscando conhecimentos em desenvolvimento de softwares. Gosto de programar em JAVA e descobri o Python recentemente. Procuro projetos interessantes em que eu possa contribuir com meus conhecimentos e experiência._
 
